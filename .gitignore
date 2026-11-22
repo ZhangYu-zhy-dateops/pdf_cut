@@ -1,0 +1,15 @@
+# python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# 输出目录
+out_img/
+out_slice_pdf/
+archive_batch/
+template_backup/
+
+# 临时、日志
+*.log
+*.tmp
