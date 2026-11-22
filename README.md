@@ -24,6 +24,7 @@
 ```
 ├── out_img/            # 输出图片
 ├── out_slice_pdf/      # 输出单页PDF
+├── debug_dir/          # debug时文件夹，看轮廓框
 ├── archive_batch/      # 批次归档文件夹
 ├── template_backup/    # 模板备份
 ├── template.png        # 当前使用模板
