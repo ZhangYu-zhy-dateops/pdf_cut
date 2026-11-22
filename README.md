@@ -1,5 +1,12 @@
 # PDF批量识别截图工具
-基于 Python + Tkinter 开发的通用GUI工具，内置截图框选功能，用于PDF内目标识别、裁切导出。
+[![Python](https://img.shields.io/badge/Python-3.8+-3776AB?logo=python)](https://www.python.org/)
+[![OpenCV](https://img.shields.io/badge/OpenCV-opencv--python-5C3EE8?logo=opencv)](https://opencv.org/)
+[![PyMuPDF](https://img.shields.io/badge/PyMuPDF-pymupdf-008080)](https://pymupdf.readthedocs.io/)
+[![Pillow](https://img.shields.io/badge/Pillow-PIL-1155CC)](https://pillow.readthedocs.io/)
+[![NumPy](https://img.shields.io/badge/NumPy-numpy-013243?logo=numpy)](https://numpy.org/)
+[![Tkinter](https://img.shields.io/badge/Tkinter-GUI-444444)](https://docs.python.org/3/library/tkinter.html)
+
+> 基于 Python + Tkinter 开发的通用GUI工具，内置截图框选功能，用于PDF内目标识别、裁切导出。
 
 > ⚠️ 本项目代码完全由AI生成
 
