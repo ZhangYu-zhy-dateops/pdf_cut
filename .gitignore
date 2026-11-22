@@ -7,9 +7,13 @@ venv/
 # 输出目录
 out_img/
 out_slice_pdf/
+debug_dir/
 archive_batch/
 template_backup/
 
+template.png
+
 # 临时、日志
+*.pdf
 *.log
 *.tmp
